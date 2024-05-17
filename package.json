@@ -1,0 +1,17 @@
+{
+  "name": "prefixcalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prefixCalc.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node prefixCalc.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@babel/preset-env": "^7.24.5",
+    "jest": "^29.7.0"
+  }
+}
